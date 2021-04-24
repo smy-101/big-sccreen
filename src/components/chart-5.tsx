@@ -13,13 +13,13 @@ export const Chart5 = () => {
                 </thead>
                 <tbody>
                 <tr>
-                    <td>2015</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+                    <td>2015</td><td>2</td><td>3</td><td>50</td><td>22</td><td>400</td><td>600</td><td>1500</td>
                 </tr>
                 <tr>
-                    <td>2016</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+                    <td>2016</td><td>3</td><td>4</td><td>20</td><td>100</td><td>500</td><td>800</td><td>2000</td>
                 </tr>
                 <tr>
-                    <td>2017</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+                    <td>2017</td><td>4</td><td>5</td><td>10</td><td>50</td><td>550</td><td>750</td><td>1800</td>
                 </tr>
                 </tbody>
             </table>
