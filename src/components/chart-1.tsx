@@ -8,7 +8,7 @@ export const Chart1 = () => {
         var myChart = echarts.init(divRef.current);
         myChart.setOption(createEchartsOptions({
             xAxis: {
-                data: ['兰州新区', '兰州新区', '兰州新区', '兰州新区', '兰州新区', '兰州新区', '兰州新区', '兰州新区', '兰州新区'],
+                data: ['城关区', '七里河区', '西固区', '安宁区', '红谷区', '永登区', '皋兰区', '榆中新区', '兰州新区'],
                 axisTick: {show: false},
                 axisLine: {
                     lineStyle: {color: '#083B70'}
@@ -35,7 +35,7 @@ export const Chart1 = () => {
             },
             series: [{
                 type: 'bar',
-                data: [10, 20, 36, 41, 15, 26, 37, 18, 29]
+                data: [40, 30, 25, 18, 24, 14, 37, 27, 33]
             }]
         }));
     }, []);
